@@ -17,10 +17,10 @@
 
 <div align="center" style="margin: 900px;">
   
-  [![](https://media.discordapp.net/attachments/837138328230035536/1154726284522438766/Instagram-_E4405F.png?width=112&height=23)](https://www.instagram.com/rafaelrothmann/?hl=en) 
-  [![](https://media.discordapp.net/attachments/837138328230035536/1154726285151588412/Gmail-_333.png?width=112&height=23)](mailto:rafinharothmann@gmail.com?) 
-  [![](https://media.discordapp.net/attachments/837138328230035536/1154726284920881162/LinkedIn-_0077B5.png?width=112&height=23)](https://www.linkedin.com/in/rafael-m-rothmann/) 
-  [![](https://media.discordapp.net/attachments/837138328230035536/1154724553113747496/lattes.png?width=112&height=23)](http://lattes.cnpq.br/6598820284736318)
+  [![Instagram](https://media.discordapp.net/attachments/837138328230035536/1154726284522438766/Instagram-_E4405F.png?width=112&height=23)](https://www.instagram.com/rafaelrothmann/?hl=en) 
+  [![Gmail](https://media.discordapp.net/attachments/837138328230035536/1154726285151588412/Gmail-_333.png?width=112&height=23)](mailto:rafinharothmann@gmail.com?) 
+  [![Linkedin](https://media.discordapp.net/attachments/837138328230035536/1154726284920881162/LinkedIn-_0077B5.png?width=112&height=23)](https://www.linkedin.com/in/rafael-m-rothmann/) 
+  [![Lattes](https://media.discordapp.net/attachments/837138328230035536/1154724553113747496/lattes.png?width=112&height=23)](http://lattes.cnpq.br/6598820284736318)
 </div>
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
