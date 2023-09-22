@@ -12,7 +12,7 @@
 </div>
 
 <div align="center" style="margin: 900px;" >  
-  <h2>Social Media</h2>
+  <h2 style="color:white;">Social Media</h2>
 </div>
 
 <div align="center" style="margin: 900px;">
