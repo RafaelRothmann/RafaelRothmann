@@ -13,10 +13,14 @@
 
 <div align="center" style="margin: 900px;" >  
   <h2>Social Media</h2>
-  <a style="margin: 900px;" href="https://www.instagram.com/rafaelrothmann/?hl=en" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-  <a href = "mailto:rafinharothmann@gmail.com?"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-m-rothmann/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-  <a href="http://lattes.cnpq.br/6598820284736318"  target="_blank"><img src="imgs/-Lattes-#0077B5.svg"></a> 
+</div>
+
+<div align="center" style="margin: 900px;">
+  
+  [![](https://media.discordapp.net/attachments/837138328230035536/1154726284522438766/Instagram-_E4405F.png?width=112&height=23)](https://www.instagram.com/rafaelrothmann/?hl=en) 
+  [![](https://media.discordapp.net/attachments/837138328230035536/1154726285151588412/Gmail-_333.png?width=112&height=23)](mailto:rafinharothmann@gmail.com?) 
+  [![](https://media.discordapp.net/attachments/837138328230035536/1154726284920881162/LinkedIn-_0077B5.png?width=112&height=23)](https://www.linkedin.com/in/rafael-m-rothmann/) 
+  [![](https://media.discordapp.net/attachments/837138328230035536/1154724553113747496/lattes.png?width=112&height=23)](http://lattes.cnpq.br/6598820284736318)
 </div>
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
